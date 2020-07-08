@@ -6,6 +6,7 @@ public class Git {
 		
 		System.out.println("Boa Noite");
 		System.out.println("Teste 2");
+		System.out.println("Tete 3");
 
 	}
 
